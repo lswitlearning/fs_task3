@@ -1,0 +1,2002 @@
+.www-prestonmarket {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0.01px;
+  position: relative;
+  background-color: var(--wwwprestonmarketcomaunero);
+  overflow-x: hidden;
+}
+
+.www-prestonmarket .div-main-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .div-slider {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 1;
+}
+
+.www-prestonmarket .div-owl-stage-outer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 1;
+}
+
+.www-prestonmarket .div-owl-item {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  min-height: 1px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .div-slide {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-image: url(https://c.animaapp.com/QEyPl6ty/img/div-slide.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-prestonmarket .div-slide-inner {
+  display: flex;
+  flex-direction: column;
+  min-height: 500px;
+  align-items: center;
+  justify-content: center;
+  padding: 124.88px 335px 124.87px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-image: url(https://c.animaapp.com/QEyPl6ty/img/div-slide-inner.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-prestonmarket .link {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 19.39px 600px 10px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .heading {
+  max-width: 650px;
+  padding: 0px 178.31px 0.59px 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .leasing-enquiries {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-medium-72-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-medium-72-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-medium-72-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-medium-72-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-medium-72-line-height);
+  font-style: var(--www-prestonmarket-com-au-montserrat-medium-72-font-style);
+}
+
+.www-prestonmarket .p-margin {
+  position: relative;
+  align-self: stretch;
+  max-width: 1200px;
+  width: 100%;
+  height: 61.88px;
+  margin-top: -0.01px;
+}
+
+.www-prestonmarket .p {
+  display: flex;
+  flex-direction: column;
+  max-width: 1200px;
+  width: 1200px;
+  align-items: flex-start;
+  padding: 0px 660.02px 0.94px 30px;
+  position: relative;
+  top: -1px;
+}
+
+.www-prestonmarket .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -1.02px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-regular-19-2-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-regular-19-2-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-regular-19-2-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-regular-19-2-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-regular-19-2-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-regular-19-2-font-style);
+}
+
+.www-prestonmarket .div-owl-dots {
+  display: flex;
+  justify-content: center;
+  padding: 0px 936px 8.55px;
+  align-self: stretch;
+  width: 100%;
+  z-index: 0;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .div-owl-dot {
+  display: inline-flex;
+  padding: 5px 7px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .span {
+  position: relative;
+  width: 10px;
+  height: 10px;
+  background-color: var(--wwwprestonmarketcomaumantle);
+  border-radius: 30px;
+}
+
+.www-prestonmarket .div {
+  position: relative;
+  width: 10px;
+  height: 10px;
+  background-color: var(--wwwprestonmarketcomaualto);
+  border-radius: 30px;
+}
+
+.www-prestonmarket .div-container {
+  width: 1170px;
+  padding: 120px 0px 15px;
+  z-index: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .div-content {
+  display: flex;
+  flex-direction: column;
+  min-height: 1px;
+  align-items: center;
+  gap: 60px;
+  padding: 20px 0px 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .article {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 60px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .header-heading {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 267.02px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 55px;
+  white-space: nowrap;
+}
+
+.www-prestonmarket .div-entry-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 19.99px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .it-s-not-just-a-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 799.8px 0.09px 0px;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-prestonmarket .it-s-not-just-a {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-medium-32-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-medium-32-font-weight);
+  color: var(--wwwprestonmarketcomaucrimson);
+  font-size: var(--www-prestonmarket-com-au-montserrat-medium-32-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-medium-32-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-medium-32-line-height);
+  font-style: var(--www-prestonmarket-com-au-montserrat-medium-32-font-style);
+}
+
+.www-prestonmarket .heading-2 {
+  height: 35.19px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-prestonmarket .div-recent-posts {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 30px;
+  padding: 0px 15px 30px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .div-box-white {
+  display: flex;
+  flex-direction: column;
+  width: 360px;
+  align-items: flex-start;
+  padding: 30px;
+  position: relative;
+  background-image: url(https://c.animaapp.com/QEyPl6ty/img/div-box-white-2.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-prestonmarket .div-box-white-inner {
+  min-height: 300px;
+  justify-content: center;
+  padding: 33.91px 30px 33.9px;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--wwwprestonmarketcomaunero-80);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-prestonmarket .heading-margin {
+  padding: 18px 0px 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .link-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 22.73px 0px 0px;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-prestonmarket .market-leases-wrapper {
+  display: inline-flex;
+  align-items: flex-start;
+  padding: 2px 2.84e-14px 2px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -0.73px;
+}
+
+.www-prestonmarket .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 33px;
+}
+
+.www-prestonmarket .p-wrapper {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 136.19px;
+}
+
+.www-prestonmarket .p-2 {
+  width: 240px;
+  gap: 4.76px;
+  padding: 0px 14.23px 1.55px 0px;
+  top: -1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-prestonmarket .preston-market {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.23px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-regular-16-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-regular-16-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-regular-16-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-regular-16-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-regular-16-line-height);
+  font-style: var(--www-prestonmarket-com-au-montserrat-regular-16-font-style);
+}
+
+.www-prestonmarket .read-more-wrapper {
+  position: relative;
+  width: 91.86px;
+  height: 21px;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-color: var(--wwwprestonmarketcomaublack);
+}
+
+.www-prestonmarket .read-more {
+  position: absolute;
+  width: 92px;
+  height: 24px;
+  top: -6px;
+  left: 0;
+  font-family: var(--www-prestonmarket-com-au-montserrat-regular-14-4-upper-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-regular-14-4-upper-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-regular-14-4-upper-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-regular-14-4-upper-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-regular-14-4-upper-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-regular-14-4-upper-font-style);
+}
+
+.www-prestonmarket .div-box-white-inner-wrapper {
+  width: 360px;
+  padding: 30px;
+  background-image: url(https://c.animaapp.com/QEyPl6ty/img/div-box-white-1.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-prestonmarket .div-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 99.87px 0px 0px;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-prestonmarket .cotoletta-milanese-wrapper {
+  display: inline-flex;
+  align-items: flex-start;
+  padding: 2px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -0.87px;
+}
+
+.www-prestonmarket .p-3 {
+  width: 240px;
+  gap: 4.76px;
+  padding: 0px 16.42px 1.55px 0px;
+  top: -1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-prestonmarket .feast-your-eyes-on {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.42px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-regular-16-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-regular-16-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-regular-16-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-regular-16-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-regular-16-line-height);
+  font-style: var(--www-prestonmarket-com-au-montserrat-regular-16-font-style);
+}
+
+.www-prestonmarket .div-box-white-2 {
+  width: 360px;
+  padding: 30px;
+  background-image: url(https://c.animaapp.com/QEyPl6ty/img/div-box-white.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-prestonmarket .heading-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 48.67px 0px 0px;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-prestonmarket .amir-s-spanakopita-wrapper {
+  display: inline-flex;
+  align-items: flex-start;
+  padding: 2px 8.53e-14px 2px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -0.67px;
+}
+
+.www-prestonmarket .p-4 {
+  width: 240px;
+  gap: 4.76px;
+  padding: 0px 29.37px 1.55px 0px;
+  top: -1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-prestonmarket .get-ready-to {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.37px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-regular-16-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-regular-16-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-regular-16-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-regular-16-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-regular-16-line-height);
+  font-style: var(--www-prestonmarket-com-au-montserrat-regular-16-font-style);
+}
+
+.www-prestonmarket .div-page-lower {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 375px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .div-container-2 {
+  width: 1170px;
+  gap: 59.3px;
+  padding: 20px 0px 1.14e-13px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .heading-4 {
+  padding: 0px 39.27px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -1.27px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: var(--wwwprestonmarketcomaucrimson);
+  font-size: 200px;
+  letter-spacing: 0;
+  line-height: 220px;
+  white-space: nowrap;
+}
+
+.www-prestonmarket .div-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 15px;
+  padding: 0px 0px 0px 15px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .list {
+  width: 555px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-prestonmarket .item {
+  display: flex;
+  align-items: flex-start;
+  padding: 0px 387.27px 0.69px 0px;
+  align-self: stretch;
+  width: 100%;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.27px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-weight);
+  color: #dfdcdc;
+  font-size: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-semibold-40-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-semibold-40-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-style);
+}
+
+.www-prestonmarket .item-2 {
+  display: flex;
+  align-items: flex-start;
+  padding: 0px 401.22px 0.69px 0px;
+  align-self: stretch;
+  width: 100%;
+  margin-top: -0.7px;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.22px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-weight);
+  color: #dfdcdc;
+  font-size: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-semibold-40-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-semibold-40-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-style);
+}
+
+.www-prestonmarket .item-3 {
+  display: flex;
+  align-items: flex-start;
+  padding: 0px 407px 0.69px 0px;
+  align-self: stretch;
+  width: 100%;
+  margin-top: -0.7px;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -1px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-weight);
+  color: #dfdcdc;
+  font-size: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-semibold-40-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-semibold-40-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-style);
+}
+
+.www-prestonmarket .item-4 {
+  display: flex;
+  align-items: flex-start;
+  padding: 0px 417.55px 0.69px 0px;
+  align-self: stretch;
+  width: 100%;
+  margin-top: -0.7px;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .text-wrapper-8 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.55px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-weight);
+  color: #dfdcdc;
+  font-size: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-semibold-40-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-semibold-40-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-style);
+}
+
+.www-prestonmarket .item-5 {
+  display: flex;
+  align-items: flex-start;
+  padding: 0px 310.8px 0.69px 0px;
+  align-self: stretch;
+  width: 100%;
+  margin-top: -0.7px;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.8px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-weight);
+  color: #dfdcdc;
+  font-size: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-semibold-40-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-semibold-40-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-style);
+}
+
+.www-prestonmarket .item-6 {
+  display: flex;
+  align-items: flex-start;
+  padding: 0px 451.05px 0.69px 0px;
+  align-self: stretch;
+  width: 100%;
+  margin-top: -0.7px;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .text-wrapper-10 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.05px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-weight);
+  color: #dfdcdc;
+  font-size: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-semibold-40-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-semibold-40-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-semibold-40-font-style);
+}
+
+.www-prestonmarket .div-col-sm {
+  display: flex;
+  flex-direction: column;
+  width: 585px;
+  min-height: 1px;
+  align-items: flex-start;
+  gap: 30px;
+  padding: 0px 15px 29.99px;
+  position: relative;
+}
+
+.www-prestonmarket .gather-make-create-wrapper {
+  padding: 0px 57.97px 0.75px 0px;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-prestonmarket .gather-make-create {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-regular-16-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-regular-16-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-regular-16-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-regular-16-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-regular-16-line-height);
+  font-style: var(--www-prestonmarket-com-au-montserrat-regular-16-font-style);
+}
+
+.www-prestonmarket .p-5 {
+  padding: 4px 463.14px 1.55px 0px;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-prestonmarket .link-2 {
+  position: relative;
+  width: 91.86px;
+  height: 21px;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-color: var(--wwwprestonmarketcomaucrimson);
+}
+
+.www-prestonmarket .text-wrapper-11 {
+  position: absolute;
+  width: 92px;
+  height: 24px;
+  top: -6px;
+  left: 0;
+  font-family: var(--www-prestonmarket-com-au-montserrat-regular-14-4-upper-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-regular-14-4-upper-font-weight);
+  color: var(--wwwprestonmarketcomaucrimson);
+  font-size: var(--www-prestonmarket-com-au-montserrat-regular-14-4-upper-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-regular-14-4-upper-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-regular-14-4-upper-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-regular-14-4-upper-font-style);
+}
+
+.www-prestonmarket .p-6 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 26.55px;
+}
+
+.www-prestonmarket .div-footer-tpm {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  top: 2106px;
+  left: 860px;
+}
+
+.www-prestonmarket .div-pre-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 60px 375px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-image: url(https://c.animaapp.com/QEyPl6ty/img/div-pre-footer.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-prestonmarket .div-row-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 1170px;
+  align-items: flex-start;
+  padding: 0px 0px 15px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .div-row-2 {
+  height: 306.72px;
+  background-image: url(https://c.animaapp.com/QEyPl6ty/img/div-row.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-prestonmarket .div-nav-menu {
+  padding: 9.1px 15px 0px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  width: 195px;
+  min-height: 1px;
+  align-items: flex-start;
+  gap: 10px;
+  position: absolute;
+  top: 0;
+}
+
+.www-prestonmarket .heading-5 {
+  padding: 0px 97.67px 0.9px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .text-wrapper-12 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.67px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-medium-18-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-medium-18-font-weight);
+  color: var(--wwwprestonmarketcomaucrimson);
+  font-size: var(--www-prestonmarket-com-au-montserrat-medium-18-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-medium-18-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-medium-18-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-medium-18-font-style);
+}
+
+.www-prestonmarket .list-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .item-link {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2px 108.27px 2px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .text-wrapper-13 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.27px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-medium-16-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-medium-16-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-medium-16-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-medium-16-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-medium-16-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-medium-16-font-style);
+}
+
+.www-prestonmarket .item-link-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2px 133.06px 2px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .text-wrapper-14 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.06px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-medium-16-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-medium-16-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-medium-16-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-medium-16-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-medium-16-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-medium-16-font-style);
+}
+
+.www-prestonmarket .eat-drink-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2px 73.72px 2px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .eat-drink {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.72px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-medium-16-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-medium-16-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-medium-16-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-medium-16-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-medium-16-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-medium-16-font-style);
+}
+
+.www-prestonmarket .fashion-accessories-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2px 70.64px 2px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .fashion-accessories {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.64px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-medium-16-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-medium-16-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-medium-16-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-medium-16-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-medium-16-line-height);
+  font-style: var(--www-prestonmarket-com-au-montserrat-medium-16-font-style);
+}
+
+.www-prestonmarket .fruit-veg-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2px 75.58px 2px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .fruit-veg {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.58px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-medium-16-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-medium-16-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-medium-16-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-medium-16-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-medium-16-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-medium-16-font-style);
+}
+
+.www-prestonmarket .general-merchandise-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2px 59.97px 2px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .general-merchandise {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.97px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-medium-16-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-medium-16-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-medium-16-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-medium-16-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-medium-16-line-height);
+  font-style: var(--www-prestonmarket-com-au-montserrat-medium-16-font-style);
+}
+
+.www-prestonmarket .hair-body-soul-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2px 26.53px 2px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .hair-body-soul {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.53px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-medium-16-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-medium-16-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-medium-16-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-medium-16-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-medium-16-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-medium-16-font-style);
+}
+
+.www-prestonmarket .div-nav-menu-2 {
+  padding: 10px 15px 0px;
+  left: 195px;
+  display: flex;
+  flex-direction: column;
+  width: 195px;
+  min-height: 1px;
+  align-items: flex-start;
+  gap: 10px;
+  position: absolute;
+  top: 0;
+}
+
+.www-prestonmarket .heading-6 {
+  height: 19.8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-prestonmarket .home-living-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2px 46.23px 2px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .home-living {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.23px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-medium-16-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-medium-16-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-medium-16-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-medium-16-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-medium-16-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-medium-16-font-style);
+}
+
+.www-prestonmarket .meat-poultry-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2px 45px 2px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .meat-poultry {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-medium-16-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-medium-16-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-medium-16-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-medium-16-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-medium-16-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-medium-16-font-style);
+}
+
+.www-prestonmarket .nursery-flowers-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2px 18.44px 2px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .nursery-flowers {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.44px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-medium-16-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-medium-16-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-medium-16-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-medium-16-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-medium-16-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-medium-16-font-style);
+}
+
+.www-prestonmarket .item-link-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2px 99.19px 2px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .text-wrapper-15 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.19px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-medium-16-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-medium-16-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-medium-16-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-medium-16-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-medium-16-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-medium-16-font-style);
+}
+
+.www-prestonmarket .item-link-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2px 23.48px 2px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .text-wrapper-16 {
+  margin-right: -0.48px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-medium-16-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-medium-16-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-medium-16-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-medium-16-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-medium-16-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-medium-16-font-style);
+}
+
+.www-prestonmarket .item-link-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2px 20.16px 2px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .text-wrapper-17 {
+  margin-right: -0.16px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-medium-16-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-medium-16-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-medium-16-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-medium-16-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-medium-16-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-medium-16-font-style);
+}
+
+.www-prestonmarket .div-socials {
+  display: flex;
+  width: 555px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 10.48px;
+  padding: 13px 0px 13.39px 475.92px;
+  position: absolute;
+  top: 0;
+  left: 600px;
+}
+
+.www-prestonmarket .symbol {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-left: -11.4px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwprestonmarketcomaucrimson);
+  font-size: 40px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.www-prestonmarket .symbol-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwprestonmarketcomaucrimson);
+  font-size: 40px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.www-prestonmarket .div-custom-html {
+  display: flex;
+  flex-direction: column;
+  width: 585px;
+  min-height: 1px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 9.1px 15px 0px;
+  position: absolute;
+  top: 194px;
+  left: 585px;
+}
+
+.www-prestonmarket .heading-7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0px 15px 0.9px 165.44px;
+  flex: 0 0 auto;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-prestonmarket .text-wrapper-18 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-regular-18-upper-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-regular-18-upper-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-regular-18-upper-font-size);
+  text-align: right;
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-regular-18-upper-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-regular-18-upper-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-regular-18-upper-font-style);
+}
+
+.www-prestonmarket .form {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 1.14e-13px;
+  padding: 0px 0px 0px 84.77px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .div-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .div-3 {
+  display: inline-flex;
+  align-items: center;
+  gap: 1.28e-13px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .label {
+  display: inline-flex;
+  max-width: 296.86px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 0px 0.77px;
+  position: relative;
+  flex: 0 0 auto;
+  border: none;
+  background: none;
+  margin-top: -1px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-bold-16-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-bold-16-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-bold-16-font-size);
+  text-align: right;
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-bold-16-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-bold-16-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-bold-16-font-style);
+}
+
+.www-prestonmarket .input-email {
+  position: relative;
+  width: 240px;
+  height: 48.55px;
+  background-color: var(--wwwprestonmarketcomaunero);
+  border: 1px solid;
+  border-color: var(--wwwprestonmarketcomausilver);
+}
+
+.www-prestonmarket .button {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 12.27px 17px 12.28px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+  background-color: var(--wwwprestonmarketcomaucrimson);
+  border: 1px solid;
+  border-color: var(--wwwprestonmarketcomaucrimson);
+}
+
+.www-prestonmarket .subscribe {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: var(--wwwprestonmarketcomaunero);
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 3.6px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-prestonmarket .footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 375px 30px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--wwwprestonmarketcomaunero);
+}
+
+.www-prestonmarket .div-row-3 {
+  height: 41.23px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-prestonmarket .div-copyright {
+  display: flex;
+  flex-direction: column;
+  width: 682px;
+  min-height: 1px;
+  align-items: flex-start;
+  padding: 0px 116.52px 0px 15px;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+
+.www-prestonmarket .owned-by-salta {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.02px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-regular-12-8-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-regular-12-8-font-weight);
+  color: var(--wwwprestonmarketcomaugray);
+  font-size: var(--www-prestonmarket-com-au-montserrat-regular-12-8-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-regular-12-8-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-regular-12-8-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-regular-12-8-font-style);
+}
+
+.www-prestonmarket .div-footer-logos {
+  display: flex;
+  width: 488px;
+  min-height: 1px;
+  align-items: center;
+  gap: 3.4px;
+  padding: 0px 78.78px 0px 15px;
+  position: absolute;
+  top: 0;
+  left: 682px;
+}
+
+.www-prestonmarket .logo-salta-c-png {
+  width: 114px;
+  background-image: url(https://c.animaapp.com/QEyPl6ty/img/logo-salta-c-png@2x.png);
+  position: relative;
+  max-width: 487.5px;
+  height: 36px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-prestonmarket .logo-meditch-c-png {
+  width: 141px;
+  background-image: url(https://c.animaapp.com/QEyPl6ty/img/logo-meditch-c-png@2x.png);
+  position: relative;
+  max-width: 487.5px;
+  height: 36px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-prestonmarket .logo-gas-png {
+  width: 132px;
+  margin-right: -0.08px;
+  background-image: url(https://c.animaapp.com/QEyPl6ty/img/logo-gas-png@2x.png);
+  position: relative;
+  max-width: 487.5px;
+  height: 36px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-prestonmarket .div-header-tpm {
+  position: absolute;
+  width: 255px;
+  height: 270px;
+  top: 504px;
+  left: 1665px;
+}
+
+.www-prestonmarket .banner {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url(https://c.animaapp.com/QEyPl6ty/img/banner.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-prestonmarket .div-container-fluid {
+  width: 1920px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .div-row-4 {
+  height: 103.23px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-prestonmarket .div-site-branding {
+  display: flex;
+  flex-direction: column;
+  width: 260px;
+  align-items: flex-end;
+  padding: 0px 0px 0px 59.98px;
+  position: absolute;
+  top: 20px;
+  left: 45px;
+}
+
+.www-prestonmarket .preston-market-logo-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-end;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .preston-market-logo {
+  position: relative;
+  max-width: 200px;
+  width: 200px;
+  height: 64px;
+  background-image: url(https://c.animaapp.com/QEyPl6ty/img/preston-market-logo-png@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-prestonmarket .nav {
+  display: flex;
+  flex-direction: column;
+  width: 1250px;
+  align-items: center;
+  padding: 0px 256.76px 28.55px 256.75px;
+  position: absolute;
+  top: 20px;
+  left: 335px;
+}
+
+.www-prestonmarket .div-navbar {
+  display: inline-flex;
+  min-height: 50px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 15px 2px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -0.06px;
+  margin-right: -0.06px;
+  border-radius: 4px;
+}
+
+.www-prestonmarket .nav-list {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 30px;
+  padding: 0px 15px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .item-link-6 {
+  position: relative;
+  width: 131.19px;
+  height: 48px;
+}
+
+.www-prestonmarket .text-wrapper-19 {
+  position: absolute;
+  width: 122px;
+  height: 20px;
+  top: 19px;
+  left: 0;
+  font-family: var(--www-prestonmarket-com-au-montserrat-semibold-14-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-semibold-14-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-semibold-14-font-size);
+  text-align: center;
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-semibold-14-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-semibold-14-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-semibold-14-font-style);
+}
+
+.www-prestonmarket .span-caret {
+  position: absolute;
+  width: 8px;
+  height: 4px;
+  top: 29px;
+  left: 123px;
+  border-top-width: 4px;
+  border-top-style: dashed;
+  border-right-width: 4px;
+  border-right-style: dashed;
+  border-left-width: 4px;
+  border-left-style: dashed;
+  border-color: var(--wwwprestonmarketcomaublack);
+}
+
+.www-prestonmarket .item-link-7 {
+  position: relative;
+  width: 89.53px;
+  height: 48px;
+}
+
+.www-prestonmarket .text-wrapper-20 {
+  position: absolute;
+  width: 80px;
+  height: 20px;
+  top: 19px;
+  left: 0;
+  font-family: var(--www-prestonmarket-com-au-montserrat-semibold-14-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-semibold-14-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-semibold-14-font-size);
+  text-align: center;
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-semibold-14-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-semibold-14-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-semibold-14-font-style);
+}
+
+.www-prestonmarket .span-caret-2 {
+  left: 82px;
+  position: absolute;
+  width: 8px;
+  height: 4px;
+  top: 29px;
+  border-top-width: 4px;
+  border-top-style: dashed;
+  border-right-width: 4px;
+  border-right-style: dashed;
+  border-left-width: 4px;
+  border-left-style: dashed;
+  border-color: var(--wwwprestonmarketcomaublack);
+}
+
+.www-prestonmarket .item-link-8 {
+  position: relative;
+  width: 45.17px;
+  height: 48px;
+}
+
+.www-prestonmarket .text-wrapper-21 {
+  position: absolute;
+  width: 35px;
+  height: 20px;
+  top: 19px;
+  left: 0;
+  font-family: var(--www-prestonmarket-com-au-montserrat-semibold-14-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-semibold-14-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-semibold-14-font-size);
+  text-align: center;
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-semibold-14-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-semibold-14-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-semibold-14-font-style);
+}
+
+.www-prestonmarket .span-caret-3 {
+  left: 37px;
+  position: absolute;
+  width: 8px;
+  height: 4px;
+  top: 29px;
+  border-top-width: 4px;
+  border-top-style: dashed;
+  border-right-width: 4px;
+  border-right-style: dashed;
+  border-left-width: 4px;
+  border-left-style: dashed;
+  border-color: var(--wwwprestonmarketcomaublack);
+}
+
+.www-prestonmarket .item-link-9 {
+  position: relative;
+  width: 55.7px;
+  height: 48px;
+}
+
+.www-prestonmarket .text-wrapper-22 {
+  position: absolute;
+  width: 46px;
+  height: 20px;
+  top: 19px;
+  left: 0;
+  font-family: var(--www-prestonmarket-com-au-montserrat-semibold-14-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-semibold-14-font-weight);
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: var(--www-prestonmarket-com-au-montserrat-semibold-14-font-size);
+  text-align: center;
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-semibold-14-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-semibold-14-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-semibold-14-font-style);
+}
+
+.www-prestonmarket .span-caret-4 {
+  left: 48px;
+  position: absolute;
+  width: 8px;
+  height: 4px;
+  top: 29px;
+  border-top-width: 4px;
+  border-top-style: dashed;
+  border-right-width: 4px;
+  border-right-style: dashed;
+  border-left-width: 4px;
+  border-left-style: dashed;
+  border-color: var(--wwwprestonmarketcomaublack);
+}
+
+.www-prestonmarket .item-link-10 {
+  display: inline-flex;
+  align-items: center;
+  padding: 20px 0px 8px;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .text-wrapper-23 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: var(--wwwprestonmarketcomaublack);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.www-prestonmarket .opening-times-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 320px;
+  align-items: center;
+  padding: 40px 83.73px;
+  position: absolute;
+  top: 0;
+  left: 1600px;
+  background-image: url(https://c.animaapp.com/QEyPl6ty/img/link@2x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-prestonmarket .opening-times {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: var(--wwwprestonmarketcomaunero);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 2.8px;
+  line-height: 23.2px;
+  white-space: nowrap;
+}
+
+.www-prestonmarket .div-times {
+  position: absolute;
+  width: 960px;
+  height: 1080px;
+  top: 0;
+  left: 1920px;
+  background-color: var(--wwwprestonmarketcomaucrimson);
+}
+
+.www-prestonmarket .overlap-group {
+  position: absolute;
+  width: 841px;
+  height: 40px;
+  top: 60px;
+  left: 60px;
+}
+
+.www-prestonmarket .button-close {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 0px 0.5px;
+  position: absolute;
+  top: 0;
+  left: 817px;
+}
+
+.www-prestonmarket .text-wrapper-24 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  text-shadow: 0px 1px 0px #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: var(--wwwprestonmarketcomaunero);
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.www-prestonmarket .heading-8 {
+  display: flex;
+  flex-direction: column;
+  width: 840px;
+  align-items: flex-start;
+  padding: 0px 687.48px 0.69px 0px;
+  position: absolute;
+  top: 19px;
+  left: 0;
+}
+
+.www-prestonmarket .opening-times-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-regular-14-upper-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-regular-14-upper-font-weight);
+  color: var(--wwwprestonmarketcomaunero);
+  font-size: var(--www-prestonmarket-com-au-montserrat-regular-14-upper-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-regular-14-upper-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-regular-14-upper-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-regular-14-upper-font-style);
+}
+
+.www-prestonmarket .list-3 {
+  width: 840px;
+  gap: 20px;
+  padding: 10px 499.73px 0px 0px;
+  position: absolute;
+  top: 135px;
+  left: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-prestonmarket .item-7 {
+  display: flex;
+  align-items: flex-start;
+  padding: 0px 0px 3px;
+  align-self: stretch;
+  width: 100%;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-color: var(--wwwprestonmarketcomaunero);
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .text-wrapper-25 {
+  position: relative;
+  width: fit-content;
+  margin-top: -3px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-semibold-30-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-semibold-30-font-weight);
+  color: var(--wwwprestonmarketcomaunero);
+  font-size: var(--www-prestonmarket-com-au-montserrat-semibold-30-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-semibold-30-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-semibold-30-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-semibold-30-font-style);
+}
+
+.www-prestonmarket .item-8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0.4px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-prestonmarket .text-wrapper-26 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-regular-30-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-regular-30-font-weight);
+  color: var(--wwwprestonmarketcomaunero);
+  font-size: var(--www-prestonmarket-com-au-montserrat-regular-30-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-regular-30-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-regular-30-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-regular-30-font-style);
+}
+
+.www-prestonmarket .text-wrapper-27 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-right: -0.73px;
+  font-family: var(--www-prestonmarket-com-au-montserrat-regular-30-font-family);
+  font-weight: var(--www-prestonmarket-com-au-montserrat-regular-30-font-weight);
+  color: var(--wwwprestonmarketcomaunero);
+  font-size: var(--www-prestonmarket-com-au-montserrat-regular-30-font-size);
+  letter-spacing: var(--www-prestonmarket-com-au-montserrat-regular-30-letter-spacing);
+  line-height: var(--www-prestonmarket-com-au-montserrat-regular-30-line-height);
+  white-space: nowrap;
+  font-style: var(--www-prestonmarket-com-au-montserrat-regular-30-font-style);
+}
